@@ -41,7 +41,7 @@ I’m a PhD researcher at UNSW working on clinical reasoning models 🏥🧠, mu
 
 ---
 
-### 🧠 Selected Research
+### 👨‍💻 Selected Research
 
 #### 🧬 Multimodal Clinical Reasoning 
 - Combining **LLMs + Reinforcement Learning** for clinical reasoning
