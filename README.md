@@ -36,7 +36,7 @@ I’m a PhD researcher at UNSW working on clinical reasoning models 🏥🧠, mu
 ### 🚀 Highlighted Contributions
 
 #### 🔥 Major Contributor to High-Impact Repository
-- Contributed significantly to the **[llm-lab-org/Multimodal-RAG-Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey)** Github Repo.
+- Contributed significantly to the **[llm-lab-org/Multimodal-RAG-Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey)**.
 - Focus: LLMs / RAG / Multimodal Systems
 
 ---
