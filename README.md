@@ -1,6 +1,6 @@
 # Hi there, I'm Amirhosein Zobeiri 👋
 
-### PhD Researcher @ UNSW | AI, LLMs & Multimodal Learning
+### PhD Researcher @ UNSW | Generative-AI, LLMs ,RL & Multimodal Learning
 
 I am a **PhD researcher in Biomedical Engineering at UNSW Sydney**, working on cutting-edge problems in **Multimodal AI, Large Language Models (LLMs), and AI for Healthcare**.
 
@@ -29,32 +29,21 @@ My research focuses on building **data-efficient, reliable, and reasoning-capabl
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-green?style=flat)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat)
 
-**Tools & Systems**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
----
 
 ### 🚀 Highlighted Contributions
 
 #### 🔥 Major Contributor to High-Impact Repository
-- Contributed significantly to a **well-cited GitHub repository**
-- Focus: LLMs / RAG / Multimodal Systems *(update this based on your actual repo)*
-- 👉 Add your PRs / commits here:
-  - PR #XX – [link]
-  - PR #XX – [link]
-
----
+- Contributed significantly to the **[llm-lab-org/Multimodal-RAG-Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey)** Github Repo.
+- Focus: LLMs / RAG / Multimodal Systems
 
 ### 🧠 Selected Research
 
 #### 🧬 Multimodal ECG-Text Reasoning (PhD Research)
 - Combining **LLMs + Reinforcement Learning** for clinical reasoning
-- Focus on **interpretable and reliable medical AI systems**
+- Focus on **interpretable and reliable medical XAI systems**
 
 #### 🧠 EEG-based Outcome Prediction
 - Transformer & **Mamba-based architectures** for neurological prognosis
@@ -64,39 +53,11 @@ My research focuses on building **data-efficient, reliable, and reasoning-capabl
 - Built **knowledge graph + LLM-based medical chatbots**
 - Reduced hallucination via ontology-guided retrieval
 
----
-
-### 📚 Publications
-
-- **Ask in Any Modality: Multimodal RAG Survey**  
-  *ACL Findings 2025*  
-  https://aclanthology.org/2025.findings-acl.861/
-
-- **Post-Cardiac Arrest Outcome Prediction**  
-  *International Journal of Medical Informatics (IJMI)*
-
-- **CEREBRA: EEG Representation Learning Framework**  
-  *Under Review*
-
----
-
-### 🧪 Industry & Research Experience
-
-- 🏥 Ottawa Hospital Research Institute (Canada) — Medical LLMs & RAG  
-- 🧠 NBIC Lab — EEG & Deep Learning Research  
-- 🤖 TenSurf — LLM & RAG Systems Evaluation  
-- 🏦 DPI (ex-IBM) — Financial NLP with LLMs  
-
----
 
 ### 📫 Connect with Me
 
 - 📧 Email: zobeiria1@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/amirhosein-zobeiri-81611826a/  
-- 🧑‍💻 GitHub: https://github.com/Ahzobeiri  
+- 🧑‍💻 GitHub: https://github.com/amrhZ77  
 
 ---
-
-### ⚡ Fun Fact
-
-I work at the intersection of **AI, neuroscience, and reasoning systems**, aiming to build the next generation of **trustworthy AI for real-world impact**.
