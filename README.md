@@ -44,7 +44,7 @@ My research focuses on building **data-efficient, reliable, and reasoning-capabl
 
 ### 🧠 Selected Research
 
-#### 🧬 Multimodal ECG-Text Reasoning (PhD Research)
+#### 🧬 Multimodal Clinical Reasoning 
 - Combining **LLMs + Reinforcement Learning** for clinical reasoning
 - Focus on **interpretable and reliable medical XAI systems**
 
