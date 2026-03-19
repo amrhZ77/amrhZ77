@@ -32,12 +32,15 @@ My research focuses on building **data-efficient, reliable, and reasoning-capabl
 ![LangChain](https://img.shields.io/badge/-LangChain-green?style=flat)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat)
 
+---
 
 ### 🚀 Highlighted Contributions
 
 #### 🔥 Major Contributor to High-Impact Repository
 - Contributed significantly to the **[llm-lab-org/Multimodal-RAG-Survey](https://github.com/llm-lab-org/Multimodal-RAG-Survey)** Github Repo.
 - Focus: LLMs / RAG / Multimodal Systems
+
+---
 
 ### 🧠 Selected Research
 
@@ -53,6 +56,7 @@ My research focuses on building **data-efficient, reliable, and reasoning-capabl
 - Built **knowledge graph + LLM-based medical chatbots**
 - Reduced hallucination via ontology-guided retrieval
 
+---
 
 ### 📫 Connect with Me
 
