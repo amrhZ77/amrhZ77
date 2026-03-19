@@ -1,8 +1,8 @@
 # Hi there, I'm Amirhosein Zobeiri 👋
 
-### PhD Researcher @ UNSW | Generative-AI, LLMs ,RL & Multimodal Learning
+### PhD @ UNSW | Generative-AI, LLMs , RL & Multimodal Learning
 
-I’m a PhD researcher at UNSW working on clinical reasoning models 🏥🧠, multimodal learning 🎨🎶, and reinforcement learning ⚡🤖.
+I’m a **PhD researcher in Biomedical Engineering at UNSW Sydney**, working on clinical reasoning models 🏥🧠, multimodal learning 🎨🎶, and reinforcement learning ⚡🤖.
 
 
 ---
