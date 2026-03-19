@@ -2,9 +2,8 @@
 
 ### PhD Researcher @ UNSW | Generative-AI, LLMs ,RL & Multimodal Learning
 
-I am a **PhD researcher in Biomedical Engineering at UNSW Sydney**, working on cutting-edge problems in **Multimodal AI, Large Language Models (LLMs), and AI for Healthcare**.
+I’m a PhD researcher at UNSW working on clinical reasoning models 🏥🧠, multimodal learning 🎨🎶, and reinforcement learning ⚡🤖.
 
-My research focuses on building **data-efficient, reliable, and reasoning-capable AI systems**, especially for high-stakes domains such as clinical decision-making and bio-signal analysis.
 
 ---
 
